@@ -9,3 +9,17 @@
     grid-template-columns: repeat(3 , 1fr);
     gap: 30px;
 }
+.btn-priview{
+    margin-top: 10px;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    border-radius: 5px;
+    background-color: orange;
+    
+}
+.review-link{
+    text-decoration: none;
+}
